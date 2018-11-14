@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Imc</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="ndice_de_massa_corporal_imc">Índice de massa corporal (IMC)</string>
+    <string name="digite_seu_peso">Digite seu peso</string>
+    <string name="digite_sua_altura">Digite sua altura</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+    <string name="imc">Imc</string>
+    <string name="nome">Nome</string>
+    <string name="hist_rico_de_resultados">Histórico de Resultados</string>
+</resources>
