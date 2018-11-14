@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private String pegarDataAtual() {
-        @SuppressLint("SimpleDateFormat") DateFormat df = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss");
+        @SuppressLint("SimpleDateFormat") DateFormat df = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
         Date today = Calendar.getInstance().getTime();
         return df.format(today);
     }
